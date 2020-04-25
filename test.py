@@ -9,6 +9,7 @@ def main():
     a.set_test_task("日常巡检")
     #a.set_global_dict({"username":"15921757467","password":""})
     a.run()
+    print("pychrm提交代")
 
 
 if __name__ == '__main__':
